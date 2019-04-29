@@ -11,7 +11,7 @@ An extremely simple script created to have some fun with a kitten bot!
 * [Tkinter](https://wiki.python.org/moin/TkInter) - a Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk.
 
 
-### Requirements
+## Requirements
 Make sure that you have `Tkinter` installed in your device, if you are a macOS user, you may need to install `python 3`.
 
 ## Getting Started
