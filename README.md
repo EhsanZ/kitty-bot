@@ -3,9 +3,9 @@ An extremely simple script created to have some fun with a kitten bot!
 
 ## Screenshots
 
-![](https://ibb.co/93W3TKj)
-![](https://ibb.co/LCcMLR7)
-![](https://ibb.co/XZtkqkB)
+![](https://i.ibb.co/G3R32Yj/Screen-Shot-2019-04-29-at-10-26-41-PM.png)
+![](https://i.ibb.co/wKPT9gm/Screen-Shot-2019-04-29-at-10-28-14-PM.png)
+![](https://i.ibb.co/MD75m5T/Screen-Shot-2019-04-29-at-10-31-22-PM.png)
 
 ## Built With
 * [Tkinter](https://wiki.python.org/moin/TkInter) - a Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk.
