@@ -22,6 +22,19 @@ Run one of these commands depending in your python version and setup on your OS.
 
 `python3 chatbot.py`
 
+### Use one of these sentences to have fun with the kitty:
+* hi
+* you are cute
+* the best kitty!
+* dogs are the best
+* attention seeker
+
+### Use one of these sentences to get links to adoption aginies:
+* i want to live with cats
+* i want to adopt a cat
+* how can I adopt a cat?
+* talk with me about adoption
+
 ## Acknowledgments
 
 * https://steemit.com/python/@amjaed/make-a-very-simple-chatbot-with-python-and-tkinter
