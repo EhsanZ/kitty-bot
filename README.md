@@ -1,5 +1,5 @@
 # Simple Kitty Bot
-An extremely simple script created to have some fun with a kitten bot!
+An extremely simple script created to have some fun with a kitty bot!
 
 ## Screenshots
 
