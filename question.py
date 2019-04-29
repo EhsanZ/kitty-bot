@@ -3,6 +3,7 @@ class Question:
 
     cuteness = [
         "you are cute",
+        "you are so cute",
         "you are beautiful",
         "i like cats",
         "i love cats",
