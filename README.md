@@ -35,6 +35,9 @@ Run one of these commands depending in your python version and setup on your OS.
 * how can I adopt a cat?
 * talk with me about adoption
 
+## TODO
+Use [Chatterbot](https://chatterbot.readthedocs.io/en/stable/).
+
 ## Acknowledgments
 
 * https://steemit.com/python/@amjaed/make-a-very-simple-chatbot-with-python-and-tkinter
